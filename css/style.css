@@ -1,0 +1,40 @@
+
+
+.form-container {
+    background: #e1e1e1;
+    padding: 20px 20px;
+}
+
+.content-container{
+    padding: 20px 20px;
+}
+
+.col-xs-12.col-md-9 {
+    border-left: 1px solid #d9d9d9;
+    min-height: 840px;
+}
+
+
+.card {
+    margin-bottom: 20px;
+    height: 180px;
+}
+.card-text{
+    color: #00BCD4;
+    margin-bottom: 0px;
+}
+
+#error {
+    display:none;
+}
+.card-delete {
+    position: absolute;
+    right: 10px;
+    top: 6px;
+    line-height: 9px;
+    padding: 5px 5px;
+    font-size: 17px;
+    color: #F44336;
+    cursor: pointer;
+}
+
